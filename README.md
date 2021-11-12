@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @straybird16.
-- 👀 I’m interested in ...
+- 👀 I’m interested in tackling problems in general, and trying to solve all sorts of real world problems
 - 🌱 I’m currently learning Artificial Intelligence at UMass Amherst.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: straybird23@126.com / xxie@umass.edu
 
 <!---
 straybird16/straybird16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
