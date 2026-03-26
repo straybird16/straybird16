@@ -1,5 +1,5 @@
 - 👋 Hi, I’m straybird16
-- 🌐 [Personal Website](straybird16.github.io)
+- 🌐 [Personal Website](https://straybird16.github.io)
 - 👀 I’m interested in discovering problems of neural networks and machine learning in general and trying to solve them for real-world applications.
 - 🌱 I’m currently studying computer science as a PhD student at UMass Amherst.
 - 📫 How to reach me: soaroriental@gmail.com / xxie@umass.edu.
